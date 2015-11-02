@@ -1,1 +1,3 @@
 Hola, mi nombre es Felipe.
+Me gusta programar.
+Me encanta tomar Coca-Cola.
